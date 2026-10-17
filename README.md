@@ -1,5 +1,6 @@
 # W3_dlcNamesFromThePathRemastered_UA
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/46ab8fad-dffa-4114-920c-29605fe64a23" />
+<img width="3840" height="2160" alt="mod_tw3_dlcNamesFromThePathRemastered_7187_main_preview" src="https://github.com/user-attachments/assets/2ea3902d-255a-4bcc-b3ea-3e0429cbdf7a" />
+
 
 UA: Українська локалізація для The Witcher3 DLC Додатковий вміст: Імена зі Шляху
 
